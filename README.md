@@ -2,6 +2,8 @@
 #### Rob O'Dell, The Arizona Republic, @robodellaz, rob.odell@arizonarepublic.com
 
 
+
+
 ## Some Basic Excel commands to make magic
 1)	=trim
 2)	=upper
